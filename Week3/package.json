@@ -1,0 +1,21 @@
+{
+  "name": "basic_javacript",
+  "version": "1.0.0",
+  "description": "\"This basic javascript cover variables, condition operation and loop\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajiwunmi/m4ace-backend-development-javascript.git"
+  },
+  "author": "Taiwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajiwunmi/m4ace-backend-development-javascript/issues"
+  },
+  "homepage": "https://github.com/ajiwunmi/m4ace-backend-development-javascript#readme"
+}

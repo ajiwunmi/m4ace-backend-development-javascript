@@ -1,4 +1,5 @@
 const maxNumber = (numbers) => {
+    console.log(" 4. Maximum number in an array");
     let max = numbers[0];
     for (let i = 1; i < numbers.length; i++) {
         if (numbers[i] > max) {
@@ -9,6 +10,4 @@ const maxNumber = (numbers) => {
 }
 
 
-const arr = [3, 7, 2, 9, 12, 87, 83, 89];
-console.log(`Maximum number in ${arr} is 
-    ${maxNumber(arr)}`);
+export default maxNumber;
